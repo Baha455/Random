@@ -12,7 +12,7 @@ public class Main {
         System.out.println(fun1(18, -10));
         System.out.println(fun1(46, 30));
         System.out.println(fun1(46, 22));
-        System.out.println(fun1(generateRandomAge(0,99), generateRandomAge(0, 99)));
+        System.out.println(fun1(generateRandomAge(0,99), 26));
     }
 
     public static String fun1(int age, int temp) {
